@@ -1,0 +1,45 @@
+{
+    "studyList": [
+        {
+            "patientName": "Diffusion,...",
+            "ID": "Diffusion",
+            "DOB": "03 Mar 1980",
+            "Sex": "",
+            "StudyDescription": "batch",
+            "Study Date & Time": "13 Feb 2015, 09:30",
+            "Modality": "MR",
+            "series": [
+                ["Survey", "MR", "1"],
+                ["Tra_Reverse", "MR", "1"],
+                ["Sag_Reverse", "MR", "1"],
+                ["Cor_Reverse", "MR", "1"],
+                ["Tra_Flip", "MR", "1"],
+                ["Sag_Flip", "MR", "1"],
+                ["Cor_Flip", "MR", "1"],
+                ["Sag_Mirror", "MR", "1"],
+                ["Tra_Reverse", "MR", "1"],
+                ["Tra_Defaultorder", "MR", "1"],
+                ["Sag_Defaultorder", "MR", "1"],
+                ["Cor_Defaultorder", "MR", "1"],
+                ["Sag_MirrorFlip", "MR", "1"],
+                ["Sag_Mirror", "MR", "1"]
+            ],
+            "ImageCount": "14"
+        },
+        {
+            "patientName": "Cardiac 3,",
+            "ID": "1",
+            "Sex": "Male",
+            "DOB": "01 Jan 1967",
+            "AccessionNumber": "39995275",
+            "StudyDescription": "Heart",
+            "Modality": "MR",
+            "series": [
+                ["Rudolf sTFE/QFLOW", "MR1", ""],
+                ["Rudolf TFE/QFLOW", "MR2", ""],
+                ["Rudolf sTFE/QFLOW", "PR", ""],
+                ["Rudolf TFE/QFLOW", "PR", ""]
+            ]
+        }
+    ]
+}

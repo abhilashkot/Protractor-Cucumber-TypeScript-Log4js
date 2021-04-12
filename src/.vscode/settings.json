@@ -1,0 +1,9 @@
+{
+    "cucumberautocomplete.steps": ["../stepDef/*/*.ts"],
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "cucumberautocomplete.syncfeatures": "../features/*/*.feature",
+    "cucumberautocomplete.strictGherkinValidation": true,
+    "cucumberautocomplete.smartSnippets": true,
+    "cucumberautocomplete.stepsInvariants": true,
+    "workbench.iconTheme": "vscode-icons"
+}

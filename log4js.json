@@ -1,0 +1,22 @@
+{
+    "appenders": {
+        "console": {
+            "type": "console",
+            "category": "console"
+        },
+
+        "file": {
+            "category": "test-file-appender",
+            "type": "file",
+            "filename": "log/log_file.log",
+            "maxLogSize": 902400,
+            "appenders": "test",
+            "backups": 10,
+            "flag": "w"
+        }
+    },
+    "categories": {
+        "default": { "appenders": ["console", "file"], "level": "DEBUG" },
+        "file": { "appenders": ["file"], "level": "DEBUG" }
+    }
+}

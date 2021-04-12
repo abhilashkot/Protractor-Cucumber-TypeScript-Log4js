@@ -1,0 +1,1 @@
+These locators files should have the element locators(xpath/CSS)
