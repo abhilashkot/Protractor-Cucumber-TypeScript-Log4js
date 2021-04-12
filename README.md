@@ -1,2 +1,0 @@
-# Protractor_Cucumber_TypeScript_Log4js
-Protractor_Cucumber_TypeScript_Log4js
