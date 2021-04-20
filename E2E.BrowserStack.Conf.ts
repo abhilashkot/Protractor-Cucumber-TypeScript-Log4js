@@ -56,9 +56,9 @@ exports.config = {
    commonCapabilities: {
       resolution: '1280x1024',
       'browserstack.user':
-         process.env['CPSE_bc0ec9e4_91e6_49cf_979f_fab6daa38dad'],
+         process.env['<<>>'],
       'browserstack.key':
-         process.env['CPSE_2f276661_dc8a_4637_b6df_84686ba755e5'],
+         process.env['<<>>'],
       'browserstack.local': 'true',
       'browserstack.video': 'true',
       'browserstack.debug': 'true',
