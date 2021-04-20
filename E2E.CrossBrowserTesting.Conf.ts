@@ -33,8 +33,8 @@ export const config: Config = {
         'http://<useremail>:u06663e51fe80004@hub.crossbrowsertesting.com:80/wd/hub',
     frameworkPath: require.resolve('protractor-cucumber-framework'),
     capabilities: {
-        user: 'abhilash.kotabagi@philips.com', //replace with your email address
-        password: 'u06663e51fe80004', //replace with your authkey
+        user: '<<>>', //replace with your email address
+        password: '<<>>', //replace with your authkey
         record_Video: 'true',
         record_network: 'true',
         browserName: 'chrome',
