@@ -52,7 +52,7 @@ export const config: Config = {
             '../jsConverted/src/supportConfigs/*.js',
         ],
         strict: true,
-        tags: '@UploadAndDownloadReliability',
+        tags: '@SomeReliabilityTest',
     },
     onComplete: () => {
         Reporter.createHTMLReport();
