@@ -30,7 +30,7 @@ export const config: Config = {
     framework: 'custom',
     //directConnect: true,
     seleniumAddress:
-        'http://abhilash.kotabagi@philips.com:u06663e51fe80004@hub.crossbrowsertesting.com:80/wd/hub',
+        'http://<useremail>:u06663e51fe80004@hub.crossbrowsertesting.com:80/wd/hub',
     frameworkPath: require.resolve('protractor-cucumber-framework'),
     capabilities: {
         user: 'abhilash.kotabagi@philips.com', //replace with your email address
